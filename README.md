@@ -1,9 +1,11 @@
 # 👋 ¡Hola! Soy Evelyn Paloma  
-### Desarrolladora Backend 
+### Desarrolladora Fullstack 
 
-Soy Desarrolladora Backend Junior con experiencia práctica en la construcción de **APIs REST**, lógica de negocio y manejo de bases de datos relacionales y no relacionales. Me especializo en **Python, Node.js, JavaScript y TypeScript**, integrando backend con frontend y aplicando buenas prácticas de desarrollo, diseño modular y control de versiones con Git.
+Desarrolladora de Software Fullstack con experiencia en React, TypeScript, Node.js y NestJS, enfocada en el desarrollo de aplicaciones web y APIs REST escalables.
 
-Me apasiona aprender nuevas tecnologías, trabajar en equipo y crear soluciones eficientes y bien documentadas.
+Experiencia trabajando con JavaScript/TypeScript, SQL y NoSQL, Git, Docker y metodologías ágiles (Scrum). Interés en arquitectura de software, clean code, testing y buenas prácticas de desarrollo.
+
+Me interesa construir aplicaciones escalables y trabajar en equipos colaborativos donde pueda seguir aprendiendo y aportando soluciones de calidad.
 
 ---
 
